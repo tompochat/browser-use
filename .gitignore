@@ -1,0 +1,8 @@
+# Ignorar archivos de entorno y credenciales
+.env
+*.env
+# Ignorar archivos de Python compilados
+__pycache__/
+*.pyc
+# Ignorar archivos de configuración de entorno virtual
+env_ia/
